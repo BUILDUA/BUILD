@@ -21,7 +21,7 @@ Check the the [BUILD Web Site](http://www.build.me/)!
 
 
 ##Getting Started 
-(Quick guide - see .docs/DEVELOPER_README.md for detail information )
+(Quick guide - see [.docs/DEVELOPER_README.md](https://github.com/devinea/BUILD/blob/master/docs/DEVELOPER_README.md) for detail information )
 ###Prerequisites
 - install [npm.js](https://docs.npmjs.com/cli/install) - _*only version 1.4.28 is supported*_
 - install [node.js](https://docs.npmjs.com/cli/install) - _*versions 10.33 and 10.38 are supported*_
